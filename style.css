@@ -114,7 +114,7 @@ body {
   width: 35%;
 }
 .card__title{
-  color: #e1e1e1;
+
   padding: 0;
   line-height: 1.2;
   letter-spacing: 2px;
@@ -125,6 +125,7 @@ body {
 .card__title--bg{
   font-size: 2.4rem;
   margin-bottom: 10px;
+  color: #adafb3;
 }
 .card__title--sm{
   font-size: 1.4rem;
